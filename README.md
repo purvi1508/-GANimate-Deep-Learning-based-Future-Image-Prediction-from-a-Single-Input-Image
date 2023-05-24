@@ -1,5 +1,4 @@
 # -GANimate-Deep-Learning-based-Future-Image-Prediction-from-a-Single-Input-Image]
-
 Introduction:
 GANimate is an ongoing project that aims to utilize deep learning techniques to predict and generate three future images based on a single input image. The project recognizes its current limitations due to dataset constraints and acknowledges the need for significant modifications to achieve accurate and reliable predictions.
 
